@@ -1,0 +1,23 @@
+{
+  "name": "backend-deployment",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000B\u0000a\u0000c\u0000k\u0000e\u0000n\u0000d\u0000-\u0000D\u0000e\u0000p\u0000l\u0000o\u0000y\u0000m\u0000e\u0000n\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Syed25794/Backend-Deployment.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Syed25794/Backend-Deployment/issues"
+  },
+  "homepage": "https://github.com/Syed25794/Backend-Deployment#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
