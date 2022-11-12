@@ -1,12 +1,14 @@
 import React from "react";
-import Logo from "./Logo";
-import Navbar from "./Navbar";
+import BottomContainer from "./BottomContainer";
+import TopContainer from "./TopContainer";
 
-export const RightContainer = () => {
+const RightContainer = () => {
   return (
     <div>
-      <Logo sellerName={"Syed"} />
-      <Navbar />
+      <TopContainer />
+      <BottomContainer />
     </div>
   );
 };
+
+export default RightContainer;
