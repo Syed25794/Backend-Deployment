@@ -1,18 +1,12 @@
-import React from 'react'
-import Account from './Account'
-import Container from './Container'
-import Notifications from './Notifications'
-import SearchModal from './SearchModal'
+import React from "react";
+import Logo from "./Logo";
+import Navbar from "./Navbar";
 
-const LeftContainer = () => {
+export const LeftContainer = () => {
   return (
-    <div>
-      <SearchModal />
-      <Notifications />
-      <Account />
-      <Container />
+    <div style={{background:"cyan"}}>
+      <Logo sellerName={"Syed"} />
+      <Navbar />
     </div>
-  )
-}
-
-export default LeftContainer
+  );
+};
