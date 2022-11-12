@@ -1,0 +1,8 @@
+.navbar{
+    border: 1px solid red;
+    align-items: flex-end;
+}
+
+.btn{
+    width: 250px;
+}

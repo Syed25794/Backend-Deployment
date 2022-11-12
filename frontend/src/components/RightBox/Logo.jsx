@@ -1,5 +1,5 @@
 import React from 'react';
-import {Box, Flex} from '@chakra-ui/react';
+import { Flex} from '@chakra-ui/react';
 import styles from './Logo.module.css';
 
 const Logo = ({sellerName}) => {
